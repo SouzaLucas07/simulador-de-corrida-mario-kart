@@ -2,6 +2,8 @@
 
 Neste projeto, foi desenvolvida uma corrida que considera as habilidades dos personagens e as variáveis das pistas. O desenvolvimento foi realizado utilizando NodeJS.
 
+link do prjeto <a>https://souzalucas07.github.io/simulador-de-corrida-mario-kart/</a>
+
 <table>
         <tr>
             <td>
